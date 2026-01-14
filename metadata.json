@@ -1,0 +1,7 @@
+{
+  "name": "Attendify AI - Advanced Attendance Tracker",
+  "description": "A comprehensive attendance management system featuring real-time insights, visual analytics, and AI-powered reporting using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
